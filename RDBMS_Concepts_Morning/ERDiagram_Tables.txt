@@ -1,0 +1,3 @@
+ER diagram 
+Tables
+The tables are normalized since they dont have any kind of dependencies
