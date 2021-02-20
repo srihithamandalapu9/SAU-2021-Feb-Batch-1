@@ -1,0 +1,30 @@
+#left_div{
+    background-color: orange;
+    height:600px;
+    width: 400px;
+}
+
+#right_div{
+    background-color: aliceblue;
+    padding : 50px;
+    height: 600px;
+}
+#picture{
+    height: 140px;
+    width: 140px;
+    position: relative;
+    border-radius: 50%;
+    left:30px;
+    top:100px;
+}
+
+.fa-custom{
+    color: dodgerblue;
+}
+
+
+body{
+    padding:70px;
+    border: 5;
+    margin: 3%;
+}
